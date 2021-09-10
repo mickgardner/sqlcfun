@@ -1,0 +1,2 @@
+# sqlcfun
+Playing with sqlc
